@@ -1,2 +1,2 @@
 # drunk.ts
-Code for fun ~_~.
+写着玩，呵呵哒。
